@@ -1,9 +1,10 @@
 # 14_belly-button-challenge
 
-# Deliverables
+# Deliverable(s)
 
-index.html
-app.js
+[index.html](https://github.com/wrighang/14_belly-button-challenge/blob/main/index.html)
+
+[app.js](https://github.com/wrighang/14_belly-button-challenge/blob/main/static/js/app.js)
 
 ## Background
 In this assignment, I built an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
